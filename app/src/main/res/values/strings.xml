@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VideoCallApplication</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="video_meeting_conference_app">Video Meeting | Conference App</string>
+    <string name="signin_to_your_account">SignIn to your account</string>
+    <string name="email">Email</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Password</string>
+    <string name="hint_password">********</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="text_lable_sign_up">We need a few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="your_fist_name">your fist name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_last_name">your last name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_user_variable">No user variable</string>
+    <string name="incoming_meeting_invitation">Incoming meeting invitation</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+</resources>
